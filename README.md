@@ -1,2 +1,2 @@
 # PharmacyManagement
-Pharmacy Management System
+Pharmacy Management System (C#)
